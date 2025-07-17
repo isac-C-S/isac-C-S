@@ -10,6 +10,60 @@ Sou apaixonado por tecnologia, estou sempre em busca de novos desafios e oportun
 
 ---
 
+### 🔥 Principais Projetos
+
+#### 🚀 1. Site Pessoal
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Imagem+1+Site+Pessoal" width="80%"/>
+  <img src="https://via.placeholder.com/600x300?text=Imagem+2+Site+Pessoal" width="80%"/>
+  <img src="https://via.placeholder.com/600x300?text=Imagem+3+Site+Pessoal" width="80%"/>
+</p>
+
+🎥 [Ver demonstração em vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID_SITE)
+
+**🧰 Tecnologias usadas:**
+- Frontend: Next.js, TailwindCSS, React
+- Backend: Node.js
+- Outros: Vercel, GitHub Pages
+
+---
+
+#### 🍲 2. Blog de Receitas
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Imagem+1+Blog+de+Receitas" width="80%"/>
+  <img src="https://via.placeholder.com/600x300?text=Imagem+2+Blog+de+Receitas" width="80%"/>
+  <img src="https://via.placeholder.com/600x300?text=Imagem+3+Blog+de+Receitas" width="80%"/>
+</p>
+
+🎥 [Ver demonstração em vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID_BLOG)
+
+**🧰 Tecnologias usadas:**
+- Frontend: React, Bootstrap
+- Backend: Laravel
+- Banco de dados: MySQL
+- Outros: API de receitas personalizada, painel administrativo
+
+---
+
+#### 📊 3. Automatizador de Planilhas
+
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Imagem+1+Automatizador" width="80%"/>
+  <img src="https://via.placeholder.com/600x300?text=Imagem+2+Automatizador" width="80%"/>
+  <img src="https://via.placeholder.com/600x300?text=Imagem+3+Automatizador" width="80%"/>
+</p>
+
+🎥 [Ver demonstração em vídeo](https://www.youtube.com/watch?v=SEU_VIDEO_ID_PLANILHAS)
+
+**🧰 Tecnologias usadas:**
+- Linguagem: Python
+- Bibliotecas: Pandas, OpenPyXL
+- Outras: Google Sheets API, Tkinter (interface gráfica)
+
+---
+
 ### 🤖 Tecnologias e Habilidades
 
 #### 💻 Backend  
