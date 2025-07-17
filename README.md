@@ -16,13 +16,15 @@ Sou apaixonado por tecnologia, estou sempre em busca de novos desafios e oportun
 
 Portfólio pessoal responsivo e moderno, desenvolvido para apresentar minhas habilidades, projetos e formas de contato. Possui tema escuro, seções animadas e foco em clareza visual.
 
-[🔗 Acessar projeto online](https://isac-c-s.github.io/Portfolio-Pessoal/)
-
-![Apresentação do Site Pessoal](https://raw.githubusercontent.com/Isaczx/Isaczx/main/site%20pessoal.png)
+<p align="center">
+  <a href="https://isac-c-s.github.io/Portfolio-Pessoal/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Isaczx/Isaczx/main/site%20pessoal.png" alt="Site Pessoal" width="600px">
+  </a>
+</p>
 
 **🧰 Tecnologias usadas:**
-- HTML
-- CSS
+- HTML  
+- CSS  
 - JavaScript
 
 
