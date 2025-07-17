@@ -55,4 +55,3 @@ Sou apaixonado por tecnologia, estou sempre em busca de novos desafios e oportun
 
 > Obrigado por visitar meu perfil! Se gostou do conteúdo ou quiser colaborar, sinta-se à vontade para entrar em contato. 😄
 
-backend, frontend e banco de dados devem ficar na mesma linha
