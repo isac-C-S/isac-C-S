@@ -13,12 +13,18 @@ Sou apaixonado por tecnologia, estou sempre em busca de novos desafios e oportun
 ### 🔥 Principais Projetos
 
 #### 🚀 1. Site Pessoal
-Um site institucional desenvolvido com foco em apresentação profissional e design responsivo. Ideal para apresentar perfil, contato e projetos.
+
+Portfólio pessoal responsivo e moderno, desenvolvido para apresentar minhas habilidades, projetos e formas de contato. Possui tema escuro, seções animadas e foco em clareza visual.
+
+[🔗 Acessar projeto online](https://isac-c-s.github.io/Portfolio-Pessoal/)
+
+![Apresentação do Site Pessoal](https://raw.githubusercontent.com/Isaczx/Isaczx/main/site%20pessoal.png)
 
 **🧰 Tecnologias usadas:**
 - HTML
 - CSS
 - JavaScript
+
 
 ---
 
